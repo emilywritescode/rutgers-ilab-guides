@@ -14,7 +14,7 @@ There are many ways to do this. You can connect via SSH in your terminal/command
 
 First, you need to **choose an iLab machine to connect to**. Here's a list of iLab machines: https://report.cs.rutgers.edu/nagiosnotes/iLab-machines.html
 
-Choose one that's in H248, H252, or H254 (these correspond to the rooms in Hill Center where the physical iLab machines are). If you ever notice you can't connect to a machine or it's super slow, you can check the site for each machine's status and pick one that's better.
+**You can choose any one that's in H248, H252, or H254 (these correspond to the rooms in Hill Center where the physical iLab machines are).** You will be able to access all your files on the iLab via any of these machines. If you ever notice you can't connect to a machine or it's super slow, you can check the site for each machine's status and pick one that's better.
 
 An example of an iLab machine I used often was ````lisp````, which has the full hostname of ````lisp.cs.rutgers.edu````.
 
@@ -24,12 +24,12 @@ This provides no real GUI (like you can't click on file icons or see a desktop w
 
 
 ##### x2go
-This provides a GUI to the iLab machine. So it looks like a desktop window, with clickable file and windows. You can open up a text editor of your choice, write and save your code. You can run your programs in the terminal. Warning, x2go can be super slow/buggy. Yikes. So save your work often. **[x2go guide here](using-x2go.md)**
+This provides a GUI to the iLab machine. So it looks like a desktop window, with clickable file and windows. You can open up a text editor of your choice, write and save your code. You can run your programs in the terminal. Warning, x2go can be super slow/buggy. Yikes. So save your work often. **[x2go guide here](using-x2go.md)** (coming soon)
 
 
 ##### Cyberduck
 This provides a GUI to the file explorer. You can access your files and open them up in a text editor of your choice. All of your changes will be made to the file on the iLab. However, you can't run your programs via Cyberduck, so you'll have to find another way to run your program on the iLab (for example, using SSH).
-**[Cyberduck guide here](using-cyberduck.md)**
+**[Cyberduck guide here](using-cyberduck.md)** (almost complete)
 
 
 ##### Windows Remote Desktop
