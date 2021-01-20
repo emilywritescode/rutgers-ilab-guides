@@ -29,6 +29,8 @@ Now, you should have essentially a file explorer window with all the directories
 
 **You can also download files from the iLab to your own computer.** Right click a file in the Cyberduck window and select 'Download'.
 
+**You can also delete files from the iLab.** Like if you accidentally uploaded the wrong file, or you want to get rid of extraneous files. Right click and select 'Delete'.
+
 **You can't really compile and run your code via Cyberduck.** You'll have to use a different method (such as SSH from terminal) in order to do that. However, Cyberduck provides an easy way to access files on the iLab, which is why it's nice.
 
 

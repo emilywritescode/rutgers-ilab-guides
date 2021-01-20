@@ -34,3 +34,18 @@ This provides a GUI to the file explorer. You can access your files and open the
 
 ##### Windows Remote Desktop
 tk
+
+
+##### Going up to the physical machine on campus
+Hill Center, Busch Campus, Rutgers—New Brunswick. There might be signs to [the CAVE](https://resources.cs.rutgers.edu/docs/rooms-equipment/cave/) or look for the Hill Annex. There are iLab machines in these rooms (all in the same hallway):
+
+- Hill 248 (Command Center)
+- Hill 252 (the CAVE)
+- Hill 254 (Meltdown)
+
+These rooms (especially the CAVE) are community hangout spots where students do HW, study, have recitations, attend club/org meetings, play video games, etc. They are maintained by iLab Assistants (also known as iLabs. I know, confusing...), who also provide walk-in tutoring for students in CS courses.
+
+Go up to any of the computers in these rooms and log in with your iLab credentials. You're connected to an iLab machine!
+
+![a picture of an iLab machine](images/ilab-cpp.JPG)
+> *a picture of the monitor for the cpp machine ````cpp.cs.rutgers.edu````*
