@@ -32,6 +32,10 @@ This provides a GUI to the file explorer. You can access your files and open the
 **[Cyberduck guide here](using-cyberduck.md)** (almost complete)
 
 
+##### VSCode + SSH
+There's an SSH extension for VSCode you can set up: https://code.visualstudio.com/docs/remote/ssh
+
+
 ##### Windows Remote Desktop
 tk
 
