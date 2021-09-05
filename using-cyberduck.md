@@ -15,7 +15,11 @@ Open a new connection by clicking the 'Open Connection' button (top left of wind
 Configure the connection (image from MacOS, should be similar to other OS)
 ![Cyberduck setup image](images/cyberduck_setup.png)
 
+
+Please note that "machine_name" should be replaced by the name of the iLab machine you'd like to connect to. All iLab machines should share your saved files.
+
 > (click [here](getting-started.md) if you have no idea what any of these things are, you'll need to activate your account for iLab or find an iLab machine)
+
 
 Press 'Connect'.
 
