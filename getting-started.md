@@ -24,12 +24,12 @@ This provides no real GUI (like you can't click on file icons or see a desktop w
 
 
 ##### x2go
-This provides a GUI to the iLab machine. So it looks like a desktop window, with clickable file and windows. You can open up a text editor of your choice, write and save your code. You can run your programs in the terminal. Warning, x2go can be super slow/buggy. Yikes. So save your work often. **[x2go guide here](using-x2go.md)** (coming soon)
+This provides a GUI to the iLab machine. So it looks like a desktop window, with clickable file and windows. You can open up a text editor of your choice, write and save your code. You can run your programs in the terminal. Warning, x2go can be super slow/buggy. Yikes. So save your work often. **[x2go guide here](using-x2go.md)**
 
 
 ##### Cyberduck
 This provides a GUI to the file explorer. You can access your files and open them up in a text editor of your choice. All of your changes will be made to the file on the iLab. However, you can't run your programs via Cyberduck, so you'll have to find another way to run your program on the iLab (for example, using SSH).
-**[Cyberduck guide here](using-cyberduck.md)** (almost complete)
+**[Cyberduck guide here](using-cyberduck.md)**
 
 
 ##### VSCode + SSH
@@ -41,13 +41,13 @@ tk
 
 
 ##### Going up to the physical machine on campus
-Hill Center, Busch Campus, Rutgers—New Brunswick. There might be signs to [the CAVE](https://resources.cs.rutgers.edu/docs/rooms-equipment/cave/) or look for the Hill Annex. There are iLab machines in these rooms (all in the same hallway):
+Hill Center, Busch Campus, Rutgers—New Brunswick. There might be signs to [the CAVE](https://resources.cs.rutgers.edu/docs/rooms-equipment/cave/) or look for the Hill Annex. It is on the 2nd floor of Hill Center. There are iLab machines in these rooms (all in the same hallway):
 
 - Hill 248 (Command Center)
 - Hill 252 (the CAVE)
 - Hill 254 (Meltdown)
 
-These rooms (especially the CAVE) are community hangout spots where students do HW, study, have recitations, attend club/org meetings, play video games, etc. They are maintained by iLab Assistants (also known as iLabs. I know, confusing...), who also provide walk-in tutoring for students in CS courses.
+These rooms (especially the CAVE) are community hangout spots where students work on HW, study, have recitations, attend club/org meetings, play video games, etc. They are maintained by iLab Assistants (also known as iLabs. I know, confusing...), who also provide walk-in tutoring for students in CS courses.
 
 Go up to any of the computers in these rooms and log in with your iLab credentials. You're connected to an iLab machine!
 
